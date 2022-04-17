@@ -43,6 +43,8 @@ github.com/dtm-labs/dtmdriver v0.0.3 h1:9iAtvXKR3lJXQ7dvS87e4xdtmqkzN+ofek+CF9Av
 github.com/dtm-labs/dtmdriver v0.0.3/go.mod h1:fLiEeD2BPwM9Yq96TfcP9KpbTwFsn5nTxa/PP0jmFuk=
 github.com/dtm-labs/dtmdriver-kratos v0.0.7 h1:tWeOstvuuEFvgAYQP3hziRzCFju6SNyMviRzvbpIQrw=
 github.com/dtm-labs/dtmdriver-kratos v0.0.7/go.mod h1:MlREYO7d7Ocbs4NsuU/LQMBBcHix6rubjW+in2hNRyk=
+github.com/dtm-labs/dtmdriver-kratos v0.0.8 h1:AAIfFzpzuu7K3B/wpx71y0FdZqO1X/Bsklva0bayS9s=
+github.com/dtm-labs/dtmdriver-kratos v0.0.8/go.mod h1:MlREYO7d7Ocbs4NsuU/LQMBBcHix6rubjW+in2hNRyk=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
 github.com/envoyproxy/go-control-plane v0.9.0/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
 github.com/envoyproxy/go-control-plane v0.9.1-0.20191026205805-5f8ba28d4473/go.mod h1:YTl/9mNaCwkRvm6d1a2C3ymFceY/DCBVvsKhRF0iEA4=
